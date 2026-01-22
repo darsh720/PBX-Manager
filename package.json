@@ -1,0 +1,20 @@
+{
+  "name": "cnetcloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.12",
+    "lucide-react": "^0.562.0",
+    "mysql2": "^3.16.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
