@@ -45,10 +45,10 @@ The application acts as a central command center for your VoIP infrastructure:
 
 ## 📂 Project Structure
 
-Based on the `CNETCLOUD` directory:
+Based on the `CLOUD` directory:
 
 ```text
-CNETCLOUD/
+CLOUD/
 ├── backend/                 # Laravel API Application
 │   ├── app/Http/Controllers # Controllers (Dashboard, CDR, Tenants, Realtime)
 │   ├── routes/              # API Routes (api.php, channels.php)
