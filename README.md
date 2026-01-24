@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,tailwind,nodejs,php,asterisk" /> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,tailwind,nodejs,php,asterisk" />
+  </a>
+</p>
 
 # Cloud PBX Platform
 
