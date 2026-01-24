@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,tailwind,nodejs,php,asterisk" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,linux,tailwind,nodejs,php" />
   </a>
 </p>
 
