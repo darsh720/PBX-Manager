@@ -1,11 +1,8 @@
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,tailwind,nodejs,php" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,tailwind,nodejs,php,asterisk" /> </p>
 
 # Cloud PBX Platform
 
 A full-stack VoIP management system designed to control and monitor Ubuntu Asterisk servers. This platform orchestrates the entire telephony infrastructure using a **Laravel** backend API and a **Next.js** frontend interface, providing real-time control, detailed reporting, and multi-tenant administration.
-
-![Project Status](https://img.shields.io/badge/Status-Active-success)
-![Stack](https://img.shields.io/badge/Stack-Laravel%20%7C%20Next.js%20%7C%20Asterisk-blue)
 
 <p align="center"> <img src="https://img.shields.io/badge/Status-Active-success" alt="Project Status" /> <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20Next.js%20%7C%20Asterisk-blue" alt="Stack" /> <img src="https://img.shields.io/badge/VoIP-Asterisk%2018%2B-orange" alt="VoIP" /> </p>
 
