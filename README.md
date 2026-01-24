@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,ubuntu,linux,tailwind,nodejs,php" />
+  <a href="https://skils.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=laravel,php,nextjs,linux,ubuntu,mysql,bootstrap,rest,tailwindcss" />
   </a>
 </p>
+
+
 
 # Cloud PBX Platform
 
