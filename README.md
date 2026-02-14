@@ -45,7 +45,7 @@ The application acts as a central command center for your VoIP infrastructure:
 | Component | Technology | Description |
 | :--- | :--- | :--- |
 | **Frontend** | **Next.js 14+** | React framework with Tailwind CSS for UI. |
-| **Backend** | **Laravel 10/11** | PHP API handling logic and Asterisk control. |
+| **Backend** | **Laravel 12** | PHP API handling logic and Asterisk control. |
 | **Database** | **MySQL / MariaDB** | Stores CDRs, CELs, and App Data. |
 | **Telephony** | **Asterisk 20+** | VoIP server (PJSIP driver). |
 | **OS** | **Ubuntu Linux** | Host operating system. |
